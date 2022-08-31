@@ -7,7 +7,7 @@ networking, database structure, and algorithms. I have been studying computer sc
 |  LANGUAGES |  LIBRARIES |  ENVIRONMENTS  | RUNTIMES     |
 |:----------:|:----------:|:--------------:|--------------|
 |    Java    | Processing | Android Studio | JSX/React    |
-| JavaScript |   Express  |     MongoDB    | ASP.NET Core |
+| HTML/CSS/JS|   Express  |     MongoDB    | ASP.NET Core |
 |     C#     |    Axios   |     Logisim    |              |
 |   Python   |  Mongoose  |      MySQL     |              |
 |     SQL    |   Node.JS  |      Nginx     |              |
