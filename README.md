@@ -4,8 +4,8 @@ I develop <b>full-stack web apps</b> to keep fresh on the latest platforms, and 
 networking, database structure, and soon, machine learning algorithms. I have been studying computer science for almost nine years, and am highly proficient Java, C#, ASP.NET, CSS, and MongoDB among the <i>others listed below</i>.
 <br><br>
 
-|  <b>LANGUAGES |  LIBRARIES |  ENVIRONMENTS  | RUNTIMES</b>     |   
-|:----------:|:----------:|:--------------:|:--------------:| 
+|  <b>LANGUAGES |  LIBRARIES |  ENVIRONMENTS  | RUNTIMES</b>|   
+|:----------:|:----------:|:--------------:|:------------:| 
 |    Java    | Processing | Android Studio | JSX/React    |   
 | HTML/CSS/JS|   Express  |     MongoDB    | ASP.NET Core |   
 |     C#     |    Axios   |     Logisim    |              |   
@@ -13,8 +13,8 @@ networking, database structure, and soon, machine learning algorithms. I have be
 |     SQL    |   Node.JS  |      Nginx     |              |
 |     C++    |            |                |              |
 
-|  OSs I develop with |
-|:--------------:|
-| Windows    |
-| Debian    |
-| VMWare vSphere    |
+|  <b>OSs I develop with</b> |
+|:--------------------------:|
+| Windows                    |
+| Debian                     |
+| VMWare vSphere             |
