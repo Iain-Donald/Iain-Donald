@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi,
 <br>
-I am a highly motivated <b>full-stack web app engineer</b> who is interested in further exploring backend engineering, 
-networking, database structure, and algorithms. I have been studying computer science for almost nine years, and I am highly proficient Java, C#, ASP.NET, CSS, and MongoDB among the <i>others listed below</i>.
+I develop <b>full-stack web apps</b> to keep fresh on the latest platforms, and am interested in further exploring backend engineering, 
+networking, database structure, and soon, machine learning algorithms. I have been studying computer science for almost nine years, and am highly proficient Java, C#, ASP.NET, CSS, and MongoDB among the <i>others listed below</i>.
 <br><br>
 
 |  LANGUAGES |  LIBRARIES |  ENVIRONMENTS  | RUNTIMES     |
@@ -12,3 +12,4 @@ networking, database structure, and algorithms. I have been studying computer sc
 |   Python   |  Mongoose  |      MySQL     |              |
 |     SQL    |   Node.JS  |      Nginx     |              |
 |     C++    |            |                |              |
+
