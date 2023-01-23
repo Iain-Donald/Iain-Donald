@@ -5,7 +5,7 @@ networking, database structure, and soon, machine learning algorithms. I have be
 <br><br>
 
 |  LANGUAGES |  LIBRARIES |  ENVIRONMENTS  | RUNTIMES     |
-|:----------:|:----------:|:--------------:|--------------|
+|:----------:|:----------:|:--------------:|:--------------:|
 |    Java    | Processing | Android Studio | JSX/React    |
 | HTML/CSS/JS|   Express  |     MongoDB    | ASP.NET Core |
 |     C#     |    Axios   |     Logisim    |              |
