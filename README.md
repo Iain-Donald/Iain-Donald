@@ -11,7 +11,7 @@ networking, database structure, and soon, machine learning algorithms. I have be
 |     C#     |    Axios   |     Logisim    |              |   
 |   Python   |  Mongoose  |      MySQL     |              |
 |     SQL    |   Node.JS  |      Nginx     |              |
-|     C++    |
+|     Rust    |
 
 |  <b>OSs I develop with</b> |
 |:--------------------------:|
