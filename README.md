@@ -16,7 +16,7 @@ networking, database structure, and soon, machine learning algorithms. I have be
          <b><i>Environments and Libraries:</i></b> <a href=“https://developer.android.com/studio”>Android Studio</a>, Xcode Swift, <a href=“https://dotnet.microsoft.com/apps/aspnet”>ASP.NET Core</a>, <a href=“https://github.com/axios/axios”>Axios</a>, <a href=“https://expressjs.com/”>Express (JS)</a>, <a href=“https://www.cburch.com/logisim/”>Logisim</a>, <a href=“https://www.nginx.com/”>Nginx</a>, <a href=“https://www.mongodb.com/”>MongoDB</a>, <a href=“https://www.mysql.com/”>MySQL</a>, <a href=“https://nodejs.org/”>Node.JS</a>, <a href=“https://processing.org/”>Processing</a>, <a href=“https://reactjs.org/”>React</a>, Apache Cordova
       </td> </tr> 
       <tr> <td>
-         <b><i>OS Experience:</i></b> <a href=“https://www.debian.org/”>Debian</a>, <a href=“https://www.microsoft.com/en-us/windows”>Windows</a>
+         <b><i>OS Experience:</i></b> <a href=“https://www.debian.org/”>Debian</a>, <a href=“https://www.microsoft.com/en-us/windows”>Windows</a>, MacOS
       </td> </tr> 
    </tbody> 
 </table>
