@@ -1,7 +1,7 @@
 ### Hi,
 <br>
-I develop <b>full-stack web apps</b>, <b>phone apps</b>, and <b>servers</b>. I am always searching to keep fresh on the latest platforms am interested in further exploring backend engineering, 
-networking, database structure, and soon, machine learning algorithms. I have been studying computer science for almost ten years, and am highly proficient Java, C#, ASP.NET, CSS, and MongoDB among the <i>others listed below</i>.
+I develop <b>full-stack web apps</b>, <b>phone apps</b>, and <b>servers</b>. I am always searching to keep fresh on the latest platforms and am interested in further exploring backend engineering, 
+networking, database structure, and soon, machine learning algorithms. I have been studying computer science for over <b>ten years</b>, and am highly proficient Java, C#, ASP.NET, CSS, and MongoDB among the <i>others listed below</i>.
 <br><br>
 
 <table> 
