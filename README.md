@@ -1,7 +1,12 @@
 ### Hi,
 <br>
-I develop <b>full-stack web apps</b>, <b>phone apps</b>, and <b>servers</b>. I am always searching to keep fresh on the latest platforms and am interested in further exploring backend engineering, 
-networking, database structure, and soon, machine learning algorithms. I have been studying computer science for over <b>ten years</b>, and am highly proficient Java, C#, ASP.NET, CSS, and MongoDB among the <i>others listed below</i>.
+I develop <b>full-stack web apps</b>, <b>phone apps</b>, <b>cross-platform software tools</b>, and utility tools. My primary drive is <b>efficient, open, and accessible software tools and utility apps</b>. I have been studying computer science for over <b>ten years</b>, and am highly proficient in C, Java, C#, ASP.NET, and CSS among the <i>others listed below</i>. 
+<br><br>
+I aspire to be of the many that actively contribute to keeping digital ownership, reliability, and security in our hands or at least as a practical option. Information availability and optimal communication infrastructure is for everyone regardless of their computers performance or their finances. My software will always support our right to digital integrity. I develop to counter cloud dependency and SaaS provider monopolization. I develop against unethical AI use, stealth telemetry, over-reliance on opaque platform services with undocumented operation. We must seek solutions that use existing low level open libraries when practical. 
+
+<h3>My digital concerns</h3>
+
+In recent times, Google, Microsoft, and many others accelerate development in libraries that violate our autonomy and privacy. This is done when doing so openly to apps and services will draw poor publicity, and when such software can evade open-source clarity (Google's increasing development of opaque sensor and usage analytics libraries in Android, or embedded after a series of linkers under Gemini and Play Services). We should be aware of the capabilities already around us and not let them slip away to mysterious layer-cakes, it's probably in the documentation!
 <br><br>
 
 <table> 
