@@ -10,13 +10,13 @@ networking, database structure, and soon, machine learning algorithms. I have be
    </thead> 
    <tbody> 
       <tr> <td>
-         <b><i>Languages:</i></b> <a href=“https://developer.mozilla.org/en-US/docs/Web/CSS”>CSS</a>, <a href=“https://docs.microsoft.com/en-us/dotnet/csharp/”>C#</a>, <a href=“https://www.cplusplus.com/doc/tutorial/”>C++</a>, <a href=“https://developer.mozilla.org/en-US/docs/Web/HTML”>HTML</a>, <a href=“https://docs.oracle.com/en/java/”>Java</a>, <a href=“https://developer.mozilla.org/en-US/docs/Web/JavaScript”>JavaScript</a>, <a href=“https://www.python.org/”>Python</a>, <a href=“https://www.rust-lang.org/”>Rust</a>, <a href=“https://www.w3schools.com/sql/”>SQL</a>, Swift
+         <b><i>Familiar languages:</i></b> C, <a href=“https://docs.microsoft.com/en-us/dotnet/csharp/”>C#</a>, <a href=“https://www.cplusplus.com/doc/tutorial/”>C++</a>, Kotlin, SwiftUI, <a href=“https://developer.mozilla.org/en-US/docs/Web/CSS”>CSS</a>, <a href=“https://developer.mozilla.org/en-US/docs/Web/HTML”>HTML</a>, <a href=“https://docs.oracle.com/en/java/”>Java</a>, <a href=“https://developer.mozilla.org/en-US/docs/Web/JavaScript”>JavaScript</a>, <a href=“https://www.python.org/”>Python</a>, <a href=“https://www.rust-lang.org/”>Rust</a>, <a href=“https://www.w3schools.com/sql/”>SQL</a>
       </td> </tr> 
       <tr> <td>
-         <b><i>Environments and Libraries:</i></b> <a href=“https://developer.android.com/studio”>Android Studio</a>, Xcode Swift, <a href=“https://dotnet.microsoft.com/apps/aspnet”>ASP.NET Core</a>, <a href=“https://github.com/axios/axios”>Axios</a>, <a href=“https://expressjs.com/”>Express (JS)</a>, <a href=“https://www.cburch.com/logisim/”>Logisim</a>, <a href=“https://www.nginx.com/”>Nginx</a>, <a href=“https://www.mongodb.com/”>MongoDB</a>, <a href=“https://www.mysql.com/”>MySQL</a>, <a href=“https://nodejs.org/”>Node.JS</a>, <a href=“https://processing.org/”>Processing</a>, <a href=“https://reactjs.org/”>React</a>, Apache Cordova
+         <b><i>Environments and Libraries:</i></b> <a href=“https://developer.android.com/studio”>Android Studio Kotlin</a>, Android NDK and JVM, Xcode SwiftUI, <a href=“https://dotnet.microsoft.com/apps/aspnet”>ASP.NET Core</a>, <a href=“https://nodejs.org/”>Node.js</a><a href=“https://expressjs.com/”> and Express.js</a>, <a href=“https://www.nginx.com/”>Nginx</a>, <a href=“https://www.mysql.com/”>MySQL</a>, SQLite (gold star of appreciation ⭐), <a href=“https://processing.org/”>Processing</a>
       </td> </tr> 
       <tr> <td>
-         <b><i>OS Experience:</i></b> <a href=“https://www.debian.org/”>Debian</a>, <a href=“https://www.microsoft.com/en-us/windows”>Windows</a>, MacOS
+         <b><i>OS Experience:</i></b> <a href=“https://www.debian.org/”>Debian</a>, <a href=“https://www.microsoft.com/en-us/windows”>Windows</a>, MacOS, Android, iOS
       </td> </tr> 
    </tbody> 
 </table>
