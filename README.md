@@ -26,6 +26,8 @@ In recent times, Google, Microsoft, and many others accelerate development in li
    </tbody> 
 </table>
 
+WebP and the WebP team gets my gold star ⭐ of appreciation too!
+
 <!--table>
    <thead>
       <tr>
