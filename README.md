@@ -1,6 +1,6 @@
 ### Hi,
 <br>
-I develop <b>full-stack web apps</b>, <b>phone apps</b>, <b>cross-platform software tools</b>, and utility apps. My primary drive is <b>efficient, open, and accessible software tools and utility apps</b>. I have been studying computer science for over <b>ten years</b>, and am highly proficient in C, Java, C#, ASP.NET, and CSS among the <i>others listed below</i>. 
+I develop <b>full-stack web apps</b>, <b>phone apps</b>, <b>cross-platform software tools</b>, and utility apps. My primary drive is <b>efficient, open, and accessible software</b>. I have been studying computer science for over <b>ten years</b>, and am highly proficient in C, Java, C#, ASP.NET, and CSS among the <i>others listed below</i>. 
 <br><br>
 I aspire to be of the many that actively contribute to keeping digital ownership, reliability, and security in our hands or at least as a practical option. Information availability and optimal communication infrastructure is for everyone regardless of their computers performance or their finances. I will always support our right to digital integrity and anonymity in its access.
 
