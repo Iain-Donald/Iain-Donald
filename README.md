@@ -2,12 +2,6 @@
 <br>
 I develop <b>full-stack web apps</b>, <b>phone apps</b>, <b>cross-platform software tools</b>, and utility apps. My primary drive is <b>efficient, open, and accessible software</b>. I have been studying computer science for over <b>ten years</b>, and am highly proficient in C, Java, C#, ASP.NET, and CSS among the <i>others listed below</i>. 
 <br><br>
-I aspire to be of the many that actively contribute to keeping digital ownership, reliability, and security in our hands or at least as a practical option. Information availability and optimal communication infrastructure is for everyone regardless of their computers performance or their finances. I will always support our right to digital integrity and anonymity in its access.
-
-<h3>My digital concerns</h3>
-
-I develop to counter cloud dependency and SaaS provider monopolization. I develop against unethical AI use becoming popular in corporations seeking to work with or emulate Palantir and Nvidia, against stealth embedded telemetry, and against over-reliance on opaque platform services with undocumented operation. We must seek solutions that use existing low level open libraries when practical. In recent times, Google, Microsoft, and many others accelerate development in libraries that violate our autonomy and privacy. This is done when doing so openly to apps and services will draw poor publicity, and when such software can evade open-source clarity (Google's increasing development of opaque sensor and usage analytics libraries in Android, or embedded after a series of linkers under Gemini and Play Services). We should be aware of the capabilities already around us and not let support slip away to mysterious layer-cakes, it's probably in the documentation!
-<br><br>
 
 <table> 
    <thead> 
@@ -27,6 +21,17 @@ I develop to counter cloud dependency and SaaS provider monopolization. I develo
 </table>
 
 WebP and the WebP team gets my gold star ⭐ of appreciation too!
+
+---
+
+<h3>Maintaining the spirit of computers and the internet</h3>
+
+I aspire to be of the many that actively contribute to keeping digital ownership, reliability, and security in our hands or at least as a practical option. Information availability and optimal communication infrastructure is for everyone regardless of their computers performance or their finances. I will always support our right to digital integrity and anonymity in its access.
+
+<h3>My digital concerns</h3>
+
+I develop to counter cloud dependency and SaaS provider monopolization. I develop against unethical AI use becoming popular in corporations seeking to work with or emulate Palantir and Nvidia, against stealth embedded telemetry, and against over-reliance on opaque platform services with undocumented operation. We must seek solutions that use existing low level open libraries when practical. In recent times, Google, Microsoft, and many others accelerate development in libraries that violate our autonomy and privacy. This is done when doing so openly to apps and services will draw poor publicity, and when such software can evade open-source clarity (Google's increasing development of opaque sensor and usage analytics libraries in Android, or embedded after a series of linkers under Gemini and Play Services). We should be aware of the capabilities already around us and not let support slip away to mysterious layer-cakes, it's probably in the documentation!
+<br><br>
 
 <!--table>
    <thead>
