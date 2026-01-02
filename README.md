@@ -30,24 +30,10 @@ I aspire to be of the many that actively contribute to keeping digital ownership
 
 <h3>My digital concerns</h3>
 
+Legal fees are the price of admission to freedom. Learn to get your privacy back, you'll learn computer science one the way. 
+
 I develop to counter cloud dependency and SaaS provider monopolization. I develop against unethical AI use becoming popular in corporations seeking to work with or emulate Palantir and Nvidia, against stealth embedded telemetry, and against over-reliance on opaque platform services with undocumented operation. We must seek solutions that use existing low level open libraries when practical. In recent times, Google, Microsoft, and many others accelerate development in libraries that violate our autonomy and privacy. This is done when doing so openly to apps and services will draw poor publicity, and when such software can evade open-source clarity (Google's increasing development of opaque sensor and usage analytics libraries in Android, or embedded after a series of linkers under Gemini and Play Services). We should be aware of the capabilities already around us and not let support slip away to mysterious layer-cakes, it's probably in the documentation!
 <br><br>
 
-<!--table>
-   <thead>
-      <tr>
-         <th>Skillset</th>
-      </tr>
-   </thead>
-   <tbody>
-      <tr>
-         <td><b><i>Languages:</i></b> CSS, C#, C++, HTML, Java, JavaScript, Python, Rust, SQL</td>
-      </tr>
-      <tr>
-         <td><b><i>Environments and Libraries:</i></b> Android Studio, ASP.NET Core, Axios, Express (JS), Logisim, <br>Nginx, MongoDB, MySQL, Node.JS, Processing, React</td>
-      </tr>
-     <tr>
-         <td><b><i>OS Experience:</i></b> Debian, Windows, MacOS</td>
-      </tr>
-   </tbody>
-</table-->
+
+
