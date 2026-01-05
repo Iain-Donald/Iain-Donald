@@ -40,21 +40,4 @@ Legal fees are the price of admission to freedom. Learn to get your privacy back
 I develop to counter cloud dependency and SaaS provider monopolization. I develop against unethical AI use becoming popular in corporations seeking to work with or emulate Palantir and Nvidia, against stealth embedded telemetry, and against over-reliance on opaque platform services with undocumented operation. We must seek solutions that use existing low level open libraries when practical. In recent times, Google, Microsoft, and many others accelerate development in libraries that violate our autonomy and privacy. This is done when doing so openly to apps and services will draw poor publicity, and when such software can evade open-source clarity (Google's increasing development of opaque sensor and usage analytics libraries in Android, or embedded after a series of linkers under Gemini and Play Services). We should be aware of the capabilities already around us and not let support slip away to mysterious layer-cakes, it's probably in the documentation!
 <br><br>
 
-***
-
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-mDMEaVuwShYJKwYBBAHaRw8BAQdAY8YHEBw2vGN+jgpabiD5zcBpZMFQ97D+fsqt
-tcjzhxG0JElhaW4gRG9uYWxkIDxpYWluZG9uYWxkQG91dGxvb2suY29tPoiTBBMW
-CgA7FiEEs4CLyGIhhffkJ/PIznehPAEKtAcFAmlbsEoCGwMFCwkIBwICIgIGFQoJ
-CAsCBBYCAwECHgcCF4AACgkQznehPAEKtAeXAgEA1CJjYnlFvoRUYBm4HiOhzlGx
-z3/lXwA4GBHrH+pgd2ABAMAvYtd9QdIOEhSNpeCP3/sigiEqVHVuqV2T8/gNls4P
-uDgEaVuwShIKKwYBBAGXVQEFAQEHQLfSKNL2aqYGwANoMeMJwmGXZtksJUeH59Ua
-PbL47C8uAwEIB4h4BBgWCgAgFiEEs4CLyGIhhffkJ/PIznehPAEKtAcFAmlbsEoC
-GwwACgkQznehPAEKtAcZKQD/Yrl/JJ9tA2vi6GppBPr/0fMeIrztKwxgGC2UBtL7
-VRsBAJRByGtlm3hUbKI1Iv8q1vxeg1idfbmpHSNikHt90K0M
-=2MzQ
-
------END PGP PUBLIC KEY BLOCK-----
-
 
