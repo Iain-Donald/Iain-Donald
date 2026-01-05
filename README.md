@@ -1,6 +1,6 @@
 *B380 8BC8 6221 85F7 E427  F3C8 CE77 A13C 010A B407*
 
-*My current fingerprint&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;public key at end*
+*My current fingerprint&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;key found within releases.*
 
 ***
 ### Hi,
