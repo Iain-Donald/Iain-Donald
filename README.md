@@ -1,4 +1,4 @@
-*B380 8BC8 6221 85F7 E427  F3C8 CE77 A13C 010A B407*
+*9AB6 1D44 C375 F54F 423F A9FB 260C 4341 AA93 6C96*
 
 *My current fingerprint&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;key found within releases.*
 
