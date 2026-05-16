@@ -3,7 +3,7 @@
 *My current fingerprint&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;key found within releases.*
 
 ***
-### Hi,
+### Hi, <!-- you are watching cold fusion TV--> <!-- Like and subscribe PLEASE -->
 <br>
 I develop <b>web servers and web apps</b>, <b>phone apps</b>, <b>cross-platform software tools</b>, and utility libraries. My primary drive is <b>efficient, open, and accessible software</b>. I have studied computer science for over ten years, and am highly proficient in languages C, Zig, Java, C#, and Kotlin, in frameworks ASP.NET, Android JNI, and Express, and concepts including database and ODM strategies, and error handling hierarchy among the <i>others listed below</i>. 
 <br><br>
@@ -31,6 +31,12 @@ I develop <b>web servers and web apps</b>, <b>phone apps</b>, <b>cross-platform 
          <td>
             SqLite, Berkeley DB, LMDB, Android KeyStore, &lt;My own C memory mapped & ACID compliant relational database (coming in repo sv_types soon)&gt;
          </td>
+         <tr>
+            <td><b><i>Data transaction</i></b></td>
+            <td>
+               Net Admin: OSI model, NAT, VLAN, Firewalls {general, masking, vdev metrics}, <br> Transport: Multiplexing, NCHFs, and other headers, <br>WebRTC, QUIC
+            </td>
+         </tr>
       </tr>
       <tr> 
          <td>
