@@ -5,7 +5,7 @@
 ***
 ### Hi, <!-- you are watching cold fusion TV--> <!-- Like and subscribe PLEASE -->
 <br>
-I develop <b>web servers and web apps</b>, <b>phone apps</b>, <b>cross-platform software tools</b>, and utility libraries. My primary drive is <b>efficient, open, and accessible software</b>. I have studied computer science for over ten years, and am highly proficient in languages C, Zig, Java, C#, and Kotlin, in frameworks ASP.NET, Android JNI, and Express, and concepts including database and ODM strategies, and error handling hierarchy among the <i>others listed below</i>. 
+I develop <b>web servers and web apps</b>, <b>phone apps</b>, <b>cross-platform tools</b>, and utility libraries. My primary drive is <b>efficient and open software with source that reads like a lesson book. </b>. I have studied computer science for over ten years, and am highly proficient in languages C, Zig, Java, C#, and Kotlin, in frameworks ASP.NET, Android JNI, and Express, and concepts including database and ODM strategies, and error handling hierarchy among the <i>others listed below</i>. 
 <br><br>
 
 <table> 
@@ -29,7 +29,7 @@ I develop <b>web servers and web apps</b>, <b>phone apps</b>, <b>cross-platform 
             <b><i>Data management experience</i></b>
          </td>
          <td>
-            SqLite, Berkeley DB, LMDB, Android KeyStore, &lt;My own C memory mapped & ACID compliant relational database (coming in repo sv_types soon)&gt;
+            Secure and reliable storage systems: AEAD encryption, atomic+temp operations, tamper protections, corruption handling, cached items, state management, custom headers. SqLite, Berkeley DB, Android KeyStore, direct filesystems. &lt; New low level storage device (flash drive) app for transparent compression and symmetric encryption, read only locking, coming soon. Associated asymmetric TCP based xfer functionality coming a bit later! &gt;
          </td>
          <tr>
             <td><b><i>Data transaction</i></b></td>
