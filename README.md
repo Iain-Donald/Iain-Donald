@@ -24,7 +24,7 @@ I develop <b>web servers and web apps</b>, <b>phone apps</b>, <b>cross-platform 
             <b>Secure and reliable storage systems</b>: AEAD encryption, atomic+temp operations, tamper protections, corruption handling, cached items, state management, custom headers. SqLite, Berkeley DB, Android KeyStore, direct filesystems. New low level storage device (flash drive) app for transparent compression and symmetric encryption, read only locking, coming soon. Associated asymmetric TCP based xfer functionality coming a bit later!
          </td>
          <tr>
-            <td><b><i>Data transaction</i></b></td>
+            <td><b><i>Data exchange</i></b></td>
             <td>
                Net Admin: OSI model, NAT, VLAN, Firewalls {general, masking, vdev metrics}, <br> Transport: Multiplexing, manual TCP/UDP/Sockets, <br>WebRTC, QUIC
             </td>
