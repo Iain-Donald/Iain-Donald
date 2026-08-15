@@ -26,7 +26,7 @@ I develop <b>web servers and web apps</b>, <b>phone apps</b>, <b>cross-platform 
          <tr>
             <td><b><i>Data transaction</i></b></td>
             <td>
-               Net Admin: OSI model, NAT, VLAN, Firewalls {general, masking, vdev metrics}, <br> Transport: Multiplexing, NCHFs, and other headers, <br>WebRTC, QUIC
+               Net Admin: OSI model, NAT, VLAN, Firewalls {general, masking, vdev metrics}, <br> Transport: Multiplexing, manual TCP/UDP/Sockets, <br>WebRTC, QUIC
             </td>
          </tr>
       </tr>
