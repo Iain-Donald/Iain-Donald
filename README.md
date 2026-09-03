@@ -63,8 +63,16 @@ I develop <b>web servers and web apps</b>, <b>phone apps</b>, <b>cross-platform 
 ***
 ***
 
-### Unsorted unaffiliated appreciation list
+### Alphabetical unaffiliated appreciation list
 
-- [Ascon](https://ascon.isec.tugraz.at/)
-- [Monocypher](https://monocypher.org/)
+All are open source and made in good faith.
+
+- For developers
+   - [Ascon](https://ascon.isec.tugraz.at/)
+   - [Monocypher](https://monocypher.org/)
+
+- For users
+   - [aria2](https://aria2.github.io/)
+   - [Yazi](https://yazi-rs.github.io/)
+  
 
