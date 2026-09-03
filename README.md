@@ -59,4 +59,12 @@ I develop <b>web servers and web apps</b>, <b>phone apps</b>, <b>cross-platform 
    </tbody> 
 </table>
 
+***
+***
+***
+
+### Unsorted unaffiliated appreciation list
+
+- [Ascon](https://ascon.isec.tugraz.at/)
+- [Monocypher](https://monocypher.org/)
 
