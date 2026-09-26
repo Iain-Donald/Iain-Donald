@@ -1,21 +1,13 @@
-*9AB6 1D44 C375 F54F 423F A9FB 260C 4341 AA93 6C96*
-
-*Public key in releases.*
-
 ***
 #### Hi, <!-- you are watching cold fusion TV--> <!-- Like and subscribe PLEASE -->
 <br>
-I develop <b>web servers and web apps</b>, <b>phone apps</b>, <b>cross-platform tools</b>, and utility libraries. My primary drive is <b>efficient and open software with source that reads like a lesson book. </b>. I have studied computer science for over ten years, and am highly proficient in languages C, Zig, Java, C#, and Kotlin, in frameworks ASP.NET, Android JNI, and Express, and concepts including database and ODM strategies, and error handling hierarchy among the <i>others listed below</i>. 
+I primarily develop utilities and code libraries for FreeBSD, Linux, and microcontrollers. Computer hardware is usually capable of far more than our software realizes. I am learning to better define the correctness and state of my software, for security then for finding efficiency. Hopefully you find it easy to read, and efficient where you use it. I'd rather write a short sentence in camelCase as a variable name than use single letters or abbreviations, like a lesson book. Feel free to steal it, but I encourage you to try and understand it as well. Chances are, it can be improved. 
+
+I have studied computer science since 2012, and am proficient in languages C, Zig, Java, C#, and Kotlin, have experience in frameworks such as ASP.NET, Android JNI, and Express, related concepts including database and ODM strategies, and enjoy learning strategies for error disccovery and handling. 
 <br><br>
 
 <table> 
-   <!--thead> 
-      <th> <th colspan="2">Coderacer</th>
-</thead--> 
    <tbody> 
-      <!--tr> <td>
-         <b><i>Familiar languages:</i></b> C, <a href=“https://www.cplusplus.com/doc/tutorial/”>C++</a>, <a href=“https://docs.microsoft.com/en-us/dotnet/csharp/”>C#</a>, <a href=“https://docs.oracle.com/en/java/”>Java</a>, Kotlin,  SwiftUI, <a href=“https://developer.mozilla.org/en-US/docs/Web/HTML”>HTML</a>, <a href=“https://developer.mozilla.org/en-US/docs/Web/CSS”>CSS</a>, <a href=“https://developer.mozilla.org/en-US/docs/Web/JavaScript”>JavaScript</a>, <a href=“https://www.python.org/”>Python</a>, <a href=“https://www.rust-lang.org/”>Rust</a>, <a href=“https://www.w3schools.com/sql/”>SQL</a>
-      </td> </tr--> 
       <tr>
          <td>
             <b><i>Data management experience</i></b>
@@ -63,7 +55,7 @@ I develop <b>web servers and web apps</b>, <b>phone apps</b>, <b>cross-platform 
 ***
 ***
 
-### Alphabetical unaffiliated appreciation list
+#### Alphabetical unaffiliated appreciation list
 
 All are open source and made in good faith.
 
