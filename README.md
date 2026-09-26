@@ -3,7 +3,7 @@
 <br>
 I primarily develop utilities and code libraries for FreeBSD, Linux, and microcontrollers. Computer hardware is usually capable of far more than our software realizes. I am learning to better define the correctness and state of my software, for security then for finding efficiency. Hopefully you find it easy to read, and efficient where you use it. I'd rather write a short sentence in camelCase as a variable name than use single letters or abbreviations, like a lesson book. Feel free to steal it, but I encourage you to try and understand it as well. Chances are, it can be improved. 
 <br><br>
-I have studied computer science since 2012, and am proficient in languages C, Zig, Java, C#, and Kotlin, have experience in frameworks such as ASP.NET, Android JNI, and Express, related concepts including database and ODM strategies, and enjoy learning strategies for error disccovery and handling. 
+I have studied computer science since 2012 using Visual Studio Express. I'm best using languages C, Zig, Java, C#, and Kotlin, have experience in frameworks such as ASP.NET, Android JNI, and Express, related concepts including database and ODM strategies, and enjoy learning strategies for error disccovery and handling. 
 <br><br>
 
 <table> 
