@@ -1,12 +1,17 @@
 ***
 ***
 ***
-### Table of contents
+### Scroll to
+#### 
+| [My library of reading recommendations](#Library) <br>
+| [About me](About-me)
 ***
-#### [My library of reading recommendations](#Library) | [About me](About-me)
-***
-#### Library
-#### About me
+### Library
+#### Code safety, <i>the runtime strategy</i>
+- https://www.stroustrup.com/Krill_safety_interview_2023.pdf
+#### Code safety, <i>the compile-time strategy</i>
+
+### About me
 #### Hi, <!-- you are watching cold fusion TV--> <!-- Like and subscribe PLEASE -->
 <br>
 For general questions or requests, email me at <b>iaindonaldnet@gmail.com</b> with <b>"[code]"</b> in the subject line.  
