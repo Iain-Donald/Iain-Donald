@@ -1,4 +1,12 @@
 ***
+***
+***
+### Table of contents
+***
+#### [My library of reading recommendations](#Library) | [About me](About-me)
+***
+#### Library
+#### About me
 #### Hi, <!-- you are watching cold fusion TV--> <!-- Like and subscribe PLEASE -->
 <br>
 For general questions or requests, email me at <b>iaindonaldnet@gmail.com</b> with <b>"[code]"</b> in the subject line.  
