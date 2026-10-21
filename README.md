@@ -16,7 +16,7 @@ I primarily develop utilities and code libraries for <a href="https://www.freebs
 <br><br>
 Computing capabilities are for more than programmers or people in technical professions. My apps, utilities, and libraries give me and you full control over your own computer without any loss of convenience. Anything that is not code is equally easy to use for non-programmers as it is for technical professionals. 
 <br><br>
-I am learning to better define the correctness and state of my software, for security then for finding efficiency. Hopefully you find it easy to read, and efficient where you use it. I'd rather write a short sentence in camelCase as a variable name than use single letters or abbreviations, like a lesson book. Feel free to steal it, but I encourage you to try and understand it as well. It can be improved. 
+I am learning to better define the correctness and state of my software, for security then for finding efficiency. Hopefully you find it easy to read, and efficient where you use it. I'd rather write a short sentence in camelCase as a variable name than use single letters or abbreviations, like a lesson book. <b>Feel free to steal it, but I encourage you to try and understand it as well. It can be improved. </b>
 <br><br>
 I have studied computer science since 2012 using Visual Studio Express. I'm best using languages C, Zig, Java, C#, and Kotlin, have experience in frameworks such as ASP.NET, Android JNI, and Express, related concepts including database and ODM strategies, and enjoy learning strategies for error disccovery and handling. 
 <br><br>
