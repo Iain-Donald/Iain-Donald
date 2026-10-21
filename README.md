@@ -1,13 +1,17 @@
 ***
 ***
 ***
-### Scroll to
+#### Check out
+- [Crystal Lexicon](https://github.com/Iain-Donald/crystal-lexicon) `new`
+- [ascon-lib](https://github.com/Iain-Donald/ascon-lib)
+
+#### Scroll to
 #### 
 | [My library of reading recommendations](#Library) <br>
 | [About me](About-me)
 ***
 
-### About me
+#### About me
 #### Hi, <!-- you are watching cold fusion TV--> <!-- Like and subscribe PLEASE -->
 <br>
 For general questions or requests, email me at <b>iaindonaldnet@gmail.com</b> with <b>"[code]"</b> in the subject line.  
