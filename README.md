@@ -19,7 +19,7 @@ For general questions or requests, email <b>iaindonaldnet@gmail.com</b> with <b>
 <br><br>
 I make utilities and code libraries for <a href="https://www.freebsd.org/">FreeBSD</a>, Linux<sub><a href="https://alpinelinux.org/downloads/">Alpine :)</a></sub>, and microcontrollers. Computer hardware is usually capable of far more than our software realizes. 
 <br><br>
-Computing capabilities are for more than programmers or people in technical professions. My apps, utilities, and libraries give me and you full control over your own computer without any loss of convenience. Anything that is not code is equally easy to use for non-programmers as it is for technical professionals. 
+UNIX utilities are building blocks. Their code libraries are easily linked, their I/O with pipes, their interface via stdout and stdin. Should libraries, apps, features require another 500 MB download for yet another environment when it's already running on the ultimate sandbox that is any operating system? Should its security rely on hardware components, secrecy, or anything beyond the OS memory management? Or does convenience require these environments? I don't think it needs to! We forget the work of art already there, and the philosophy that already brought computing to everyone. 
 <br><br>
 I am learning to better define the correctness and state of my software, for security then for finding efficiency. Hopefully you find it easy to read, and efficient where you use it. I'd rather write a short sentence in camelCase as a variable name than use single letters or abbreviations, like a lesson book. <b>Feel free to steal it, but I encourage you to try and understand it as well. It can be improved. </b>
 <br><br>
