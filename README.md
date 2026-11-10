@@ -11,6 +11,7 @@
 
 ***
 <sub>// steal the code</sub>
+<sub>// question what trust in zero-trust is said to secure</sub>
 
 ##### About me
 ##### Hi, <!-- you are watching cold fusion TV--> <!-- Like and subscribe PLEASE -->
