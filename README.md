@@ -1,23 +1,23 @@
 ***
 ***
 ***
-#### Check out
-- [Crystal Lexicon](https://github.com/Iain-Donald/crystal-lexicon) `new`
-- [ascon-lib](https://github.com/Iain-Donald/ascon-lib)
+##### scroll
 
-#### Scroll to
-#### 
 | [My library of reading recommendations](#Library) <br>
 | [About me](About-me)
-***
-<sub>// steal my code</sub>
 
-#### About me
-#### Hi, <!-- you are watching cold fusion TV--> <!-- Like and subscribe PLEASE -->
+##### see
+- [ascon-lib](https://github.com/Iain-Donald/ascon-lib)
+
+***
+<sub>// steal the code</sub>
+
+##### About me
+##### Hi, <!-- you are watching cold fusion TV--> <!-- Like and subscribe PLEASE -->
 <br>
-For general questions or requests, email me at <b>iaindonaldnet@gmail.com</b> with <b>"[code]"</b> in the subject line.  
+For general questions or requests, email <b>iaindonaldnet@gmail.com</b> with <b>"[code]"</b> in the subject line.  
 <br><br>
-I primarily develop utilities and code libraries for <a href="https://www.freebsd.org/">FreeBSD</a>, Linux<sub><a href="https://wiki.debian.org/DebianTesting">Debian :)</a></sub>, and microcontrollers. Computer hardware is usually capable of far more than our software realizes. 
+I make utilities and code libraries for <a href="https://www.freebsd.org/">FreeBSD</a>, Linux<sub><a href="https://alpinelinux.org/downloads/">Alpine :)</a></sub>, and microcontrollers. Computer hardware is usually capable of far more than our software realizes. 
 <br><br>
 Computing capabilities are for more than programmers or people in technical professions. My apps, utilities, and libraries give me and you full control over your own computer without any loss of convenience. Anything that is not code is equally easy to use for non-programmers as it is for technical professionals. 
 <br><br>
