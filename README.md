@@ -77,6 +77,8 @@ I have studied computer science since 2012 using Visual Studio Express. I'm best
 - https://www.stroustrup.com/Krill_safety_interview_2023.pdf
 #### Code safety, <i>the compile-time strategy</i>
 - Placeholder.
+#### Open source inspiration
+- https://www.oreilly.com/openbook/opensources/book/perens.html
 
 ***
 ***
